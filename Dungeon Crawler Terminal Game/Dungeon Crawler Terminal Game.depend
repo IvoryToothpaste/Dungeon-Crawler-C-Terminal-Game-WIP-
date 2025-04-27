@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1745781735 source:c:\users\zachm\onedrive\documents\programming\dungeon crawler terminal game\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Player.h"
+	"DCFunctions.h"
+	"Items.h"
+
+1745781637 c:\users\zachm\onedrive\documents\programming\dungeon crawler terminal game\player.h
+	<string>
+	<vector>
+	"Items.h"
+
+1745705688 source:c:\users\zachm\onedrive\documents\programming\dungeon crawler terminal game\functions.cpp
+	<iostream>
+	"Player.h"
+
+1745781874 source:c:\users\zachm\onedrive\documents\programming\dungeon crawler terminal game\player.cpp
+	"Player.h"
+	<iostream>
+
+1745781735 c:\users\zachm\onedrive\documents\programming\dungeon crawler terminal game\dcfunctions.h
+	<string>
+	<vector>
+	"Items.h"
+
+1745781735 source:c:\users\zachm\onedrive\documents\programming\dungeon crawler terminal game\dcfunctions.cpp
+	"DCFunctions.h"
+	<fstream>
+	<sstream>
+	<iostream>
+
+1745781874 c:\users\zachm\onedrive\documents\programming\dungeon crawler terminal game\items.h
+	<string>
+
+1745724487 source:c:\users\zachm\onedrive\documents\programming\dungeon crawler terminal game\items.cpp
+	<iostream>
+	<string>
+	<cctype>
+	<vector>
+	"Player.h"
+	"DCFunctions.h"
+	"Items.h"
+

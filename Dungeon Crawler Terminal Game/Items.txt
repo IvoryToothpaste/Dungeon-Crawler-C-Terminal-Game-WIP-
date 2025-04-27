@@ -1,0 +1,7 @@
+ID|Name|Type|SubType|DamageType|MinDamage|MaxDamage|Defense|ClassRestriction
+1|Iron Sword|Weapon|Melee|Slashing|4|8|0|None
+2|Steel Mace|Weapon|Melee|Blunt|6|10|0|None
+3|Fire Wand|Weapon|Magic|Fire|8|12|0|Mage
+4|Leather Armor|Armor|Light|None|0|0|2|None
+5|Chainmail Armor|Armor|Medium|None|0|0|5|Fighter
+6|Holy Staff|Weapon|Magic|Holy|10|15|0|Cleric
